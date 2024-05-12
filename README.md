@@ -1,6 +1,6 @@
 # TextSummarization_using_Transformers
 ![image](https://github.com/kodeCraze/textSummarization_using_Transformers/assets/146913161/8b8e1a12-2484-4e2e-b41b-88cf1bf326c7)
-# 📝 Text Summarization with DistilBART
+# 📝 Text Summarization with DistilBART Hosted URL : https://huggingface.co/spaces/I-Am-SnowFlake/text-summarizer101
 
 This project demonstrates text summarization using the DistilBART model from Hugging Face Transformers, integrated with Gradio for a user-friendly interface.
 
